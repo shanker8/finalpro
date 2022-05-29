@@ -8,6 +8,8 @@ This is a sample project created for the purpose of learning and
 demonstration of Microsoft Azure skills during the [Future Ready 
 Talent Program](https://futurereadytalent.in/learning)
 
+#azure link https://wonderful-sand-0df9ff310.1.azurestaticapps.net/
+
 Therefore, this project is not intended for commercial deployment.
 
 This is a simple Weather website. It is a responsive front-end 
